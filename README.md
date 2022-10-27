@@ -21,7 +21,8 @@ The Pretrained models and associated training logs are located in the /data dire
 ```
 data/
 ├── checkpoints
-|   └── model.ckpt
+|   └── linear_model.ckpt
+|   └── full_model.ckpt
 ├── Full_Attention_Rotary_Training_Logs
 │   ├── events.out.tfevents.1628698179.cccxc544.604661.0
 │   └── hparams.yaml
